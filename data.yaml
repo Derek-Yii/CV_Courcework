@@ -1,0 +1,4 @@
+train: /home/Keyi_Liu/桌面/CV/dataset/images/train
+val: /home/Keyi_Liu/桌面/CV/dataset/images/val
+nc: 1
+names: ['0']
